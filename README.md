@@ -1,13 +1,11 @@
-Hey there 👋 I'm [Your Name]
+Hey there 👋 I'm Juan Vallaure
 
-A dedicated [Your Role, e.g., "student", "developer", "designer"] passionate about [Your Passion 1] and [Your Passion 2] from [Your Location, e.g., "Spain"].
+A recently graduated mathematician passionate about Machine Learning and Data Science from Spain.
 
 <br>
 
 ## 👨‍💻 About Me
-
-* I am a [Your Title/Role] from [Your Location].
-* 🔭 I recently finished [Your Degree/Accomplishment] OR I'm currently working on [Your Project].
-* 🌱 Exploring [Topic 1] and [Topic 2] advancements.
-* ⚡ In my free time, I [Your Hobby 1] and [Your Hobby 2].
-* 🏒 [Your Fun/Personal Fact, e.g., "Coffee enthusiast", "Avid hiker", "Cat lover"].
+* 📘 I recently finished my Degree in Mathematics and my Master's degree in Philosophy.
+* 🌱 Currently exploring Machine Learning advancements.
+* ⚡ In my free time, I read philosophy and code.
+* 🏒 Performer and Pianist.
