@@ -9,3 +9,6 @@ A recently graduated mathematician passionate about Machine Learning and Data Sc
 * 🌱 Currently exploring Machine Learning advancements.
 * ⚡ In my free time, I read philosophy and code.
 * 🏒 Performer and Pianist.
+## 📫 How to Reach Me
+* **Email:** vallaurelozanojuan@gmail.com
+* **LinkedIn:** www.linkedin.com/in/juan-vallaure-lozano-2b1057362
